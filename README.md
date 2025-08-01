@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Absalom Hughes Amateshe.</h1>
-<h3 align="center">A passionate mobile app and back-end developer.</h3>
+<h3 align="center">A passionate back-end and mobile app developer.</h3>
+<h3 align="center">I build back-end RESTful APIs using Go (Golang) and deploy on AWS cloud and use FLutter to build cross-platform mobile applications on Android and IOS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amhughesabsalom&label=Profile%20views&color=0e75b6&style=flat" alt="amhughesabsalom" /> </p>
 
